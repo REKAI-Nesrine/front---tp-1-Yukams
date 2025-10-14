@@ -2,6 +2,6 @@
 ## TP1 - Introduction à Javascript
 
 ## Etudiant
-* NOM : TAHON
-* Prénom : Valentin
-* Groupe de TP : 41
+* NOM : REKAI
+* Prénom : Nesrine
+* Groupe de TP : 5.2
